@@ -1,0 +1,8 @@
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\bin\Debug\TestSpeech.exe
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\bin\Debug\TestSpeech.pdb
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\obj\Debug\TestSpeech.csprojResolveAssemblyReference.cache
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\obj\Debug\TestSpeech.Form1.resources
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\obj\Debug\TestSpeech.Properties.Resources.resources
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\obj\Debug\TestSpeech.csproj.GenerateResource.Cache
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\obj\Debug\TestSpeech.exe
+F:\WorkProj\demo\Sound\TestSpeech\TestSpeech\obj\Debug\TestSpeech.pdb
